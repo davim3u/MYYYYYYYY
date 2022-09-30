@@ -1,9 +1,11 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjju8ZvjcPF7ZtQi1rKvYfJUrO9DLs8qshlmnjnSTmwLHUjwhJ" , EP1
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="EP1" tvg-logo="https://image.tmdb.org/t/p/w185/dfWMQQo6IQVjdRM6zDrZz44l3mm.jpg" description="",EP1
 https://www1041.ff-03.com/token=KhacnptvmWwds_eFCfDUkA/1664514727/45.170.0.0/128/7/29/8db8feebb96a7df81c1fd6f02d42b297-720p.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjju8ZvjcPF7ZtQi1rKvYfJUrO9DLs8qshlmnjnSTmwLHUjwhJ" , EP2
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="EP1" tvg-logo="https://image.tmdb.org/t/p/w185/dfWMQQo6IQVjdRM6zDrZz44l3mm.jpg" description="",EP2
 https://www1684.ff-04.com/token=IaDdslbmAUW8F5Vwcor3KQ/1664514697/45.170.0.0/128/6/cc/2d3852fb250fe3f0ab572b1866dcccc6-720p.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjju8ZvjcPF7ZtQi1rKvYfJUrO9DLs8qshlmnjnSTmwLHUjwhJ" , EP3
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="EP1" tvg-logo="https://image.tmdb.org/t/p/w185/dfWMQQo6IQVjdRM6zDrZz44l3mm.jpg" description="",EP3
 https://www1094.ff-03.com/token=SPv9ur0YFscwQrlDNTw4Wg/1664513919/45.170.0.0/121/b/a1/b46feaffffb2264040e8c80fb5e2ea1b-720p.mp4
