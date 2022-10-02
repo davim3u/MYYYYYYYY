@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 type="stream" tvg-id="CNN BRASIL" tvg-logo="https://cargox.com.br/wp-content/uploads/2021/02/cnn-logo-white-on-red.jpg" group-title="Canais",CNN BRASIL
-#EXTBG: #11609e
-https://youtu.be/8ouRkbjdTyc
-
-#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://static.sbt.com.br/programas/logos/126.jpg" group-title="Canais",SBT
-https://youtu.be/ABVQXgr2LW4
